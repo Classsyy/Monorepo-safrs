@@ -12,7 +12,7 @@ allowBuilds:
 
 catalog:
   "@playwright/test": 1.62.1
-  "@biomejs/biome": 2.5.7
+  "@biomejs/biome": 2.6.4
   "@faker-js/faker": 10.5.0
   "@hono/zod-validator": 0.9.0
   "@opentelemetry/api": 1.9.1
